@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# momo-data-processor
+
 # MoMo Data Processor
 
 A full-stack application for processing MoMo SMS XML data with ETL pipeline and web interface.
@@ -53,6 +54,3 @@ This project is currently in setup phase. More documentation will be added as de
 ## Team Assignment
 
 This is a team project for building a full-stack MoMo data processing application with XML parsing capabilities.
-=======
-# momo-data-processor
->>>>>>> 7e2bc59038fa751cb0c34b4be8af8d5cb43b0674
