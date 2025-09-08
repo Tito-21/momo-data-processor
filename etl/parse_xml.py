@@ -1,6 +1,6 @@
 """
-AMAzing SMS - XML Parser
-Handles parsing of MoMo SMS XML data files
+MoMo Data Processor - XML Parser
+Handles parsing of MoMo XML data files
 """
 
 import xml.etree.ElementTree as ET

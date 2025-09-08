@@ -1,5 +1,5 @@
 #!/bin/bash
-# AMAzing SMS - JSON Export Script
+# MoMo Data Processor - JSON Export Script
 # This script exports processed data to JSON format
 
 set -e  # Exit on any error

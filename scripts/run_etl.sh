@@ -1,5 +1,5 @@
 #!/bin/bash
-# AMAzing SMS - ETL Pipeline Runner Script
+# MoMo Data Processor - ETL Pipeline Runner Script
 # This script runs the ETL pipeline with proper environment setup
 
 set -e  # Exit on any error

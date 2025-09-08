@@ -1,5 +1,5 @@
 """
-AMAzing SMS - XML Parser Tests
+MoMo Data Processor - XML Parser Tests
 Unit tests for XML parsing functionality
 """
 

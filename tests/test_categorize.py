@@ -1,5 +1,5 @@
 """
-AMAzing SMS - Message Categorizer Tests
+MoMo Data Processor - Message Categorizer Tests
 Unit tests for message categorization functionality
 """
 

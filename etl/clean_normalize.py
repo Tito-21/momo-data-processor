@@ -1,6 +1,6 @@
 """
-AMAzing SMS - Data Cleaner and Normalizer
-Handles data cleaning and normalization for SMS records
+MoMo Data Processor - Data Cleaner and Normalizer
+Handles data cleaning and normalization for MoMo records
 """
 
 import re

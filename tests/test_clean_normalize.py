@@ -1,5 +1,5 @@
 """
-AMAzing SMS - Data Cleaner Tests
+MoMo Data Processor - Data Cleaner Tests
 Unit tests for data cleaning and normalization functionality
 """
 

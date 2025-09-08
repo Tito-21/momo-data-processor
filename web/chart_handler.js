@@ -1,4 +1,4 @@
-// AMAzing SMS - Chart Handler
+// MoMo Data Processor - Chart Handler
 // Handles data visualization and chart rendering
 
 class ChartHandler {

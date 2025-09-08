@@ -1,5 +1,5 @@
 """
-AMAzing SMS - ETL Runner
+MoMo Data Processor - ETL Runner
 Main ETL pipeline orchestration
 """
 
@@ -165,7 +165,7 @@ class ETLRunner:
 
 def main():
     """Main entry point for ETL pipeline"""
-    parser = argparse.ArgumentParser(description='AMAzing SMS ETL Pipeline')
+    parser = argparse.ArgumentParser(description='MoMo Data Processor ETL Pipeline')
     parser.add_argument('--input', '-i', type=str, help='Input file or directory path')
     parser.add_argument('--step', '-s', choices=['extract', 'clean', 'categorize', 'load', 'full'], 
                        default='full', help='ETL step to run')

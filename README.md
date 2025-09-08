@@ -1,11 +1,11 @@
-# AMAzing SMS - MoMo XML Processing App
+# MoMo Data Processor
 
 A full-stack application for processing MoMo SMS XML data with ETL pipeline and web interface.
 
 ## Project Structure
 
 ```
-AMAzing_sms/
+momo-data-processor/
 ├── README.md
 ├── .env.example
 ├── .gitignore
@@ -51,4 +51,4 @@ This project is currently in setup phase. More documentation will be added as de
 
 ## Team Assignment
 
-This is a team project for building a full-stack MoMo SMS XML processing application.
+This is a team project for building a full-stack MoMo data processing application with XML parsing capabilities.

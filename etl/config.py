@@ -1,5 +1,5 @@
 """
-AMAzing SMS - ETL Configuration
+MoMo Data Processor - ETL Configuration
 Configuration settings for the ETL pipeline
 """
 

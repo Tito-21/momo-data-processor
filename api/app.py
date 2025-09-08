@@ -1,6 +1,6 @@
 """
-AMAzing SMS - FastAPI Application
-Main API application for SMS data processing and retrieval
+MoMo Data Processor - FastAPI Application
+Main API application for MoMo data processing and retrieval
 """
 
 from fastapi import FastAPI, HTTPException, Depends, Query
@@ -20,8 +20,8 @@ logger = logging.getLogger(__name__)
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="AMAzing SMS API",
-    description="API for MoMo SMS XML data processing and retrieval",
+    title="MoMo Data Processor API",
+    description="API for MoMo data processing and XML retrieval",
     version="1.0.0",
     docs_url="/api/docs",
     redoc_url="/api/redoc"

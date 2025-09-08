@@ -1,5 +1,5 @@
 #!/bin/bash
-# AMAzing SMS - Frontend Server Script
+# MoMo Data Processor - Frontend Server Script
 # This script serves the frontend and API
 
 set -e  # Exit on any error
@@ -90,7 +90,7 @@ print('Database initialized successfully')
 fi
 
 # Start the server
-echo "Starting AMAzing SMS server..."
+echo "Starting MoMo Data Processor server..."
 echo "Host: $HOST"
 echo "Port: $PORT"
 echo "Workers: $WORKERS"

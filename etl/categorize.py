@@ -1,6 +1,6 @@
 """
-AMAzing SMS - Message Categorizer
-Categorizes SMS messages based on content analysis
+MoMo Data Processor - Message Categorizer
+Categorizes MoMo messages based on content analysis
 """
 
 import re

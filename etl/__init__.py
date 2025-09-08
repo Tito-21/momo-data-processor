@@ -1,10 +1,10 @@
 """
-AMAzing SMS - ETL Package
-Extract, Transform, Load pipeline for MoMo SMS XML data processing
+MoMo Data Processor - ETL Package
+Extract, Transform, Load pipeline for MoMo data processing
 """
 
 __version__ = "1.0.0"
-__author__ = "AMAzing SMS Team"
+__author__ = "MoMo Data Processor Team"
 
 # ETL modules
 from .config import Config
