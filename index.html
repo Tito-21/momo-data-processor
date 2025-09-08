@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AMAzing SMS - MoMo XML Processing</title>
+    <link rel="stylesheet" href="web/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AMAzing SMS</h1>
+            <p>MoMo XML Data Processing Dashboard</p>
+        </header>
+        
+        <main>
+            <div class="dashboard">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Messages</h3>
+                        <div class="stat-value" id="total-messages">-</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Processed Today</h3>
+                        <div class="stat-value" id="processed-today">-</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Success Rate</h3>
+                        <div class="stat-value" id="success-rate">-</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Error Count</h3>
+                        <div class="stat-value" id="error-count">-</div>
+                    </div>
+                </div>
+                
+                <div class="charts-section">
+                    <div class="chart-container">
+                        <h3>Message Categories</h3>
+                        <canvas id="category-chart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <h3>Processing Timeline</h3>
+                        <canvas id="timeline-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="web/chart_handler.js"></script>
+</body>
+</html>
